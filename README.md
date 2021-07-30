@@ -1,5 +1,5 @@
 # git-code-statistics
-Golang语言版，git代码量统计
+Golang语言版，git代码量统计，Go版本为1.14
 
 项目clone到GoPath/src下面
 ```
